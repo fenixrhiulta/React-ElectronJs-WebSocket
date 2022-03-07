@@ -2,19 +2,6 @@
 
 ## Usage
 
-### Create an App
-
-```
-# with npx
-$ npx create-nextron-app my-app --example with-typescript-material-ui
-
-# with yarn
-$ yarn create nextron-app my-app --example with-typescript-material-ui
-
-# with pnpx
-$ pnpx create-nextron-app my-app --example with-typescript-material-ui
-```
-
 ### Install Dependencies
 
 ```
