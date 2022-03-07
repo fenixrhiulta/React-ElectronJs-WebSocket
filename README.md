@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/flcMvDC.png"></p>
-
 ## Usage
 
 ### Install Dependencies
